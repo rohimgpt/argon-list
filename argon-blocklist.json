@@ -1,8 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "message": "Admin: this survey is prohibited.",
   "domains": [
-    "surveys.harrisx.com"
+    "surveys.harrisx.com",
+    "lucidmarketplace.com"
   ],
   "keywords": []
 }

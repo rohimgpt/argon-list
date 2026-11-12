@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -16,7 +16,8 @@
     "surveys.gfk.com",
     "thinksprint.com",
     "strat7.com",
-    "strat7.ai"
+    "strat7.ai",
+    "getwizer.com"
   ],
   "keywords": [],
   "license": {

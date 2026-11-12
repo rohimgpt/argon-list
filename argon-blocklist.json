@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -21,7 +21,8 @@
     "web.appin.io",
     "surveys.strat7audiences.com",
     "opinion-v2.askattest.com",
-    "surveys.harrisinsights.com"
+    "surveys.harrisinsights.com",
+    "adveron.com"
   ],
   "keywords": [],
   "license": {

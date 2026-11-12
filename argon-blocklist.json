@@ -1,10 +1,11 @@
 {
-  "version": 16,
+  "version": 17,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
     "lucidmarketplace.com",
-    "savanta.com"
+    "savanta.com",
+    "potentia-insight.co.uk"
   ],
   "keywords": [
     "aaaa"

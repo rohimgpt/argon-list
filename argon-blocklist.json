@@ -1,1 +1,8 @@
-{ "version": 1, "message": "Admin: this survey is prohibited.", "domains": [], "keywords": [] }
+{
+  "version": 2,
+  "message": "Admin: this survey is prohibited.",
+  "domains": [
+    "surveys.harrisx.com"
+  ],
+  "keywords": []
+}

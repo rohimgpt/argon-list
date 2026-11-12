@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisx.com",
@@ -8,7 +8,8 @@
   "keywords": [],
   "license": {
     "active": [
-      "de901fd6aa99"
+      "de901fd6aa99",
+      "14eb1a219bdd"
     ],
     "enforce": true
   }

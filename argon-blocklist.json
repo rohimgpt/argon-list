@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -8,7 +8,8 @@
     "potentia-insight.co.uk",
     "askattest.com",
     "opinion-v2.com",
-    "attest.com"
+    "attest.com",
+    "harrisx.com"
   ],
   "keywords": [],
   "license": {

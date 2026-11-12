@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -28,7 +28,8 @@
     "surveys.tapestryresearch.com"
   ],
   "keywords": [
-    "potentia"
+    "potentia",
+    "harrisinsights"
   ],
   "license": {
     "enforce": true,

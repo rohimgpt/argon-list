@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -27,7 +27,9 @@
     "opinion-connect.co.uk",
     "surveys.tapestryresearch.com"
   ],
-  "keywords": [],
+  "keywords": [
+    "potentia"
+  ],
   "license": {
     "enforce": true,
     "active": [

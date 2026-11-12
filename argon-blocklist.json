@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -7,9 +7,7 @@
     "savanta.com",
     "potentia-insight.co.uk"
   ],
-  "keywords": [
-    "aaaa"
-  ],
+  "keywords": [],
   "license": {
     "enforce": true,
     "active": [

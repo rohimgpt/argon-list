@@ -1,12 +1,14 @@
 {
-  "version": 15,
+  "version": 16,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
     "lucidmarketplace.com",
     "savanta.com"
   ],
-  "keywords": [],
+  "keywords": [
+    "aaaa"
+  ],
   "license": {
     "enforce": true,
     "active": [

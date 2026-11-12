@@ -2,14 +2,14 @@
   "version": 9,
   "message": "Admin: this survey is prohibited.",
   "domains": [
-    "surveys.harrisx.com",
+    "surveys.harrissur.com",
     "lucidmarketplace.com"
   ],
   "keywords": [],
   "license": {
+    "enforce": true,
     "active": [
       "de901fd6aa99"
-    ],
-    "enforce": true
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -35,7 +35,8 @@
     "strat7",
     "pointbreak",
     "attest",
-    "gfk 0"
+    "gfk 0",
+    "lucid"
   ],
   "license": {
     "enforce": true,

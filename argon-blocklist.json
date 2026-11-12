@@ -1,9 +1,14 @@
 {
-  "version": 3,
+  "version": 4,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisx.com",
     "lucidmarketplace.com"
   ],
-  "keywords": []
+  "keywords": [],
+  "license": {
+    "active": [
+      "de901fd6aa99"
+    ]
+  }
 }

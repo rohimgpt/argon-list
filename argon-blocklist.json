@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -32,7 +32,8 @@
     "harrisinsights",
     "strat.7.audiences",
     "big village",
-    "strat7"
+    "strat7",
+    "pointbreak"
   ],
   "license": {
     "enforce": true,

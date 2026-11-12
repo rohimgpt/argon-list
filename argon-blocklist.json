@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -24,7 +24,8 @@
     "surveys.harrisinsights.com",
     "adveron.com",
     "ilabinsight2.com",
-    "opinion-connect.co.uk"
+    "opinion-connect.co.uk",
+    "surveys.tapestryresearch.com"
   ],
   "keywords": [],
   "license": {

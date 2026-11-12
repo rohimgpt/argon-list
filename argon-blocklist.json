@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "message": "Admin: this survey is prohibited.",
   "domains": [
     "surveys.harrisur.com",
@@ -12,7 +12,8 @@
     "harrisx.com",
     "surveys.harrisx.com",
     "appinio.com",
-    "gfk.com"
+    "gfk.com",
+    "surveys.gfk.com"
   ],
   "keywords": [],
   "license": {

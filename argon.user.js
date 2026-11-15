@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // !!! NEVER CHANGE @name OR @namespace AGAIN. Tampermonkey ties the saved data (Access ID, name, locks) to them.
 // !!! A new @name = a NEW script = NEW Access ID + empty storage. Only change @version.
-// @version      16.14
+// @version      16.15
 // @updateURL    https://raw.githubusercontent.com/rohimgpt/argon-list/main/argon.user.js
 // @downloadURL  https://raw.githubusercontent.com/rohimgpt/argon-list/main/argon.user.js
 // @description  Locks a completed survey for 7/15/30 days, tracks real start-to-end time, merge-able backups, admin-controlled remote blocklist (domains / keywords / logo images, also checked inside page links, headers, titles & logos), and an approval system (Pending / Allowed / Blocked access IDs). v16.12: fixed scan crash (null.startsWith) that stopped NEW-survey alerts; admin block screen now replaces the whole page so the red screen always shows.

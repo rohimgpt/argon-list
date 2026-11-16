@@ -17,7 +17,8 @@
     "getwizer.com",
     "web.appin.io",
     "surveys.strat7audiences.com",
-    "opinion-v2.askattest.com"
+    "opinion-v2.askattest.com",
+    "surveys.harrisinsights.com"
   ],
   "keywords": [
     "lucid",
@@ -34,5 +35,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 29
+  "version": 30
 }

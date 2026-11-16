@@ -5,10 +5,11 @@
     "attest",
     "gfk 0",
     "strat7",
-    "harrisx"
+    "harrisx",
+    "opinion-v2"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 6
+  "version": 7
 }

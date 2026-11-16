@@ -15,7 +15,8 @@
     "strat7.com",
     "strat7.ai",
     "getwizer.com",
-    "web.appin.io"
+    "web.appin.io",
+    "surveys.strat7audiences.com"
   ],
   "keywords": [
     "lucid",
@@ -32,5 +33,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 27
+  "version": 28
 }

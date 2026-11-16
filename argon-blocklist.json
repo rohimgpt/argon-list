@@ -21,7 +21,8 @@
     "surveys.harrisinsights.com",
     "adveron.com",
     "ilabinsight2.com",
-    "opinion-connect.co.uk"
+    "opinion-connect.co.uk",
+    "surveys.tapestryresearch.com"
   ],
   "keywords": [
     "lucid",
@@ -38,5 +39,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 33
+  "version": 34
 }

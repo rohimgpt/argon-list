@@ -39,7 +39,7 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 58,
+  "version": 59,
   "license": {
     "enforce": true,
     "active": [
@@ -66,7 +66,8 @@
       "220ffaaad380",
       "f9a1ab21ac0e",
       "8fa56155f59b",
-      "c956f9cc4078"
+      "c956f9cc4078",
+      "9871042611a1"
     ],
     "blocked": [],
     "names": {}

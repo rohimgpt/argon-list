@@ -18,7 +18,8 @@
     "web.appin.io",
     "surveys.strat7audiences.com",
     "opinion-v2.askattest.com",
-    "surveys.harrisinsights.com"
+    "surveys.harrisinsights.com",
+    "adveron.com"
   ],
   "keywords": [
     "lucid",
@@ -35,5 +36,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 30
+  "version": 31
 }

@@ -7,7 +7,8 @@
     "attest.com",
     "harrisx.com",
     "surveys.harrisx.com",
-    "lucidmarketplace.com"
+    "lucidmarketplace.com",
+    "appinio.com"
   ],
   "keywords": [
     "lucid",
@@ -24,5 +25,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 19
+  "version": 20
 }

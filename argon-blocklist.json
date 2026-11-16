@@ -4,10 +4,11 @@
     "lucid",
     "attest",
     "gfk 0",
-    "strat7"
+    "strat7",
+    "harrisx"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 5
+  "version": 6
 }

@@ -16,7 +16,8 @@
     "strat7.ai",
     "getwizer.com",
     "web.appin.io",
-    "surveys.strat7audiences.com"
+    "surveys.strat7audiences.com",
+    "opinion-v2.askattest.com"
   ],
   "keywords": [
     "lucid",
@@ -33,5 +34,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 28
+  "version": 29
 }

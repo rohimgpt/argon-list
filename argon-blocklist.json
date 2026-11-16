@@ -7,10 +7,11 @@
     "strat7",
     "harrisx",
     "opinion-v2",
-    "big village"
+    "big village",
+    "strat.7.audiences"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 8
+  "version": 9
 }

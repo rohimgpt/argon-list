@@ -6,7 +6,8 @@
     "opinion-v2.com",
     "attest.com",
     "harrisx.com",
-    "surveys.harrisx.com"
+    "surveys.harrisx.com",
+    "lucidmarketplace.com"
   ],
   "keywords": [
     "lucid",
@@ -23,5 +24,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 18
+  "version": 19
 }

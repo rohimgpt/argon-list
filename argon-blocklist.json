@@ -1,10 +1,11 @@
 {
   "domains": [],
   "keywords": [
-    "lucid"
+    "lucid",
+    "attest"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 2
+  "version": 3
 }

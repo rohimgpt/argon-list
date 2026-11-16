@@ -2,10 +2,11 @@
   "domains": [],
   "keywords": [
     "lucid",
-    "attest"
+    "attest",
+    "gfk 0"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 3
+  "version": 4
 }

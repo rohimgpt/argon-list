@@ -8,7 +8,8 @@
     "harrisx.com",
     "surveys.harrisx.com",
     "lucidmarketplace.com",
-    "appinio.com"
+    "appinio.com",
+    "gfk.com"
   ],
   "keywords": [
     "lucid",
@@ -25,5 +26,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 20
+  "version": 21
 }

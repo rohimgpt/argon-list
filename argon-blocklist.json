@@ -6,10 +6,11 @@
     "gfk 0",
     "strat7",
     "harrisx",
-    "opinion-v2"
+    "opinion-v2",
+    "big village"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 7
+  "version": 8
 }

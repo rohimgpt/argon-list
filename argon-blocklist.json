@@ -3,10 +3,11 @@
   "keywords": [
     "lucid",
     "attest",
-    "gfk 0"
+    "gfk 0",
+    "strat7"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 4
+  "version": 5
 }

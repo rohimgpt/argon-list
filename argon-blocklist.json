@@ -1,8 +1,10 @@
 {
   "domains": [],
-  "keywords": [],
+  "keywords": [
+    "lucid"
+  ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 1
+  "version": 2
 }

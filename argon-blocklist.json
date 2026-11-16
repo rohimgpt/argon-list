@@ -10,7 +10,8 @@
     "lucidmarketplace.com",
     "appinio.com",
     "gfk.com",
-    "surveys.gfk.com"
+    "surveys.gfk.com",
+    "thinksprint.com"
   ],
   "keywords": [
     "lucid",
@@ -27,5 +28,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 22
+  "version": 23
 }

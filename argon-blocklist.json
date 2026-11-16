@@ -5,7 +5,8 @@
     "askattest.com",
     "opinion-v2.com",
     "attest.com",
-    "harrisx.com"
+    "harrisx.com",
+    "surveys.harrisx.com"
   ],
   "keywords": [
     "lucid",
@@ -22,5 +23,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 17
+  "version": 18
 }

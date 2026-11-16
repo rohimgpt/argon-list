@@ -14,7 +14,8 @@
     "thinksprint.com",
     "strat7.com",
     "strat7.ai",
-    "getwizer.com"
+    "getwizer.com",
+    "web.appin.io"
   ],
   "keywords": [
     "lucid",
@@ -31,5 +32,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 26
+  "version": 27
 }

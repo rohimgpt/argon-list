@@ -9,10 +9,11 @@
     "opinion-v2",
     "big village",
     "strat.7.audiences",
-    "harrisinsights"
+    "harrisinsights",
+    "potentia"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 10
+  "version": 11
 }

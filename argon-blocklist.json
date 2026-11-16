@@ -4,7 +4,8 @@
     "savanta.com",
     "askattest.com",
     "opinion-v2.com",
-    "attest.com"
+    "attest.com",
+    "harrisx.com"
   ],
   "keywords": [
     "lucid",
@@ -21,5 +22,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 16
+  "version": 17
 }

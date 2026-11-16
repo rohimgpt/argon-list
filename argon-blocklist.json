@@ -39,9 +39,9 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 35,
+  "version": 36,
   "license": {
-    "enforce": false,
+    "enforce": true,
     "active": [
       "35d0977cf8a6"
     ],

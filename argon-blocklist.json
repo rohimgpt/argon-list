@@ -1,5 +1,7 @@
 {
-  "domains": [],
+  "domains": [
+    "potentia-insight.co.uk"
+  ],
   "keywords": [
     "lucid",
     "attest",
@@ -15,5 +17,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 11
+  "version": 12
 }

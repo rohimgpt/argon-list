@@ -3,7 +3,8 @@
     "potentia-insight.co.uk",
     "savanta.com",
     "askattest.com",
-    "opinion-v2.com"
+    "opinion-v2.com",
+    "attest.com"
   ],
   "keywords": [
     "lucid",
@@ -20,5 +21,5 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 15
+  "version": 16
 }

@@ -22,7 +22,8 @@
     "adveron.com",
     "ilabinsight2.com",
     "opinion-connect.co.uk",
-    "surveys.tapestryresearch.com"
+    "surveys.tapestryresearch.com",
+    "eyesee-research.decipherinc.com"
   ],
   "keywords": [
     "lucid",
@@ -40,7 +41,7 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 81,
+  "version": 82,
   "license": {
     "enforce": true,
     "active": [

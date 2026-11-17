@@ -38,12 +38,13 @@
     "potentia",
     "eyesee",
     "bully pulpit",
-    "gauge insights"
+    "gauge insights",
+    "acharya research"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 84,
+  "version": 85,
   "license": {
     "enforce": true,
     "active": [

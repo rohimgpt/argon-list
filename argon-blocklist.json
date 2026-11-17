@@ -37,12 +37,13 @@
     "harrisinsights",
     "potentia",
     "eyesee",
-    "bully pulpit"
+    "bully pulpit",
+    "gauge insights"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 83,
+  "version": 84,
   "license": {
     "enforce": true,
     "active": [

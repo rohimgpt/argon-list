@@ -34,12 +34,13 @@
     "big village",
     "strat.7.audiences",
     "harrisinsights",
-    "potentia"
+    "potentia",
+    "eyesee"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 79,
+  "version": 80,
   "license": {
     "enforce": true,
     "active": [

@@ -39,12 +39,13 @@
     "eyesee",
     "bully pulpit",
     "gauge insights",
-    "acharya research"
+    "acharya research",
+    "bully pulpit interactive"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 85,
+  "version": 86,
   "license": {
     "enforce": true,
     "active": [

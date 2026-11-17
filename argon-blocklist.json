@@ -36,12 +36,13 @@
     "strat.7.audiences",
     "harrisinsights",
     "potentia",
-    "eyesee"
+    "eyesee",
+    "bully pulpit"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 82,
+  "version": 83,
   "license": {
     "enforce": true,
     "active": [

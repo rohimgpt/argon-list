@@ -23,7 +23,8 @@
     "ilabinsight2.com",
     "opinion-connect.co.uk",
     "surveys.tapestryresearch.com",
-    "eyesee-research.decipherinc.com"
+    "eyesee-research.decipherinc.com",
+    "nelsurveys.online"
   ],
   "keywords": [
     "lucid",
@@ -45,7 +46,7 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 87,
+  "version": 88,
   "license": {
     "enforce": true,
     "active": [

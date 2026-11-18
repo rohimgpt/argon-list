@@ -41,12 +41,13 @@
     "bully pulpit",
     "gauge insights",
     "acharya research",
-    "bully pulpit interactive"
+    "bully pulpit interactive",
+    "forsta"
   ],
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 88,
+  "version": 89,
   "license": {
     "enforce": true,
     "active": [

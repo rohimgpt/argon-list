@@ -48,7 +48,7 @@
   "allow": [
     "id::sm::95sn5fs"
   ],
-  "version": 93,
+  "version": 94,
   "license": {
     "enforce": true,
     "active": [
@@ -138,6 +138,7 @@
   "surveys": [
     "p::j1.intellisurvey.com/pub/is1015778/6ae8c676-25d0-d13e-2502-90015d841d1a",
     "id::decipher::222b/79423",
-    "id::decipher::210e/g559"
+    "id::decipher::210e/g559",
+    "p::ex-plorsurvey.com/survey/selfserve/210e/g559/261012"
   ]
 }

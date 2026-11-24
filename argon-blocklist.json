@@ -47,9 +47,10 @@
     "bully pulpit interactive"
   ],
   "allow": [
-    "id::sm::95sn5fs"
+    "id::sm::95sn5fs",
+    "id::sm::h35lmyk"
   ],
-  "version": 104,
+  "version": 105,
   "license": {
     "enforce": true,
     "active": [

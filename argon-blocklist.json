@@ -26,7 +26,8 @@
     "opinion-connect.co.uk",
     "surveys.tapestryresearch.com",
     "eyesee-research.decipherinc.com",
-    "nelsurveys.online"
+    "nelsurveys.online",
+    "dimensions5.mercuryanalytics.com"
   ],
   "keywords": [
     "lucid",
@@ -51,7 +52,7 @@
     "id::sm::95sn5fs",
     "id::sm::h35lmyk"
   ],
-  "version": 107,
+  "version": 108,
   "license": {
     "enforce": true,
     "active": [

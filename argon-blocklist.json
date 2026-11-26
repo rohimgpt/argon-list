@@ -44,13 +44,14 @@
     "bully pulpit",
     "gauge insights",
     "acharya research",
-    "bully pulpit interactive"
+    "bully pulpit interactive",
+    "longitude"
   ],
   "allow": [
     "id::sm::95sn5fs",
     "id::sm::h35lmyk"
   ],
-  "version": 106,
+  "version": 107,
   "license": {
     "enforce": true,
     "active": [

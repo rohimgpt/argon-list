@@ -46,13 +46,14 @@
     "gauge insights",
     "acharya research",
     "bully pulpit interactive",
-    "longitude"
+    "longitude",
+    "net-research.com/e/1335159::baseball"
   ],
   "allow": [
     "id::sm::95sn5fs",
     "id::sm::h35lmyk"
   ],
-  "version": 114,
+  "version": 115,
   "license": {
     "enforce": true,
     "active": [
